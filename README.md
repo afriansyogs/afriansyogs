@@ -38,5 +38,5 @@ I am a passionate Software Developer with a strong interest in building scalable
 ---
 
 ### 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=afriansyogs&show_icons=true&theme=dracula)
-![Your Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afriansyogs&layout=compact&theme=dracula)
+![GitHub Stats](https://github-readme-stats.zcy.dev/api?username=afriansyogs&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.zcy.dev/api/top-langs?username=afriansyogs&layout=compact&theme=dracula)
