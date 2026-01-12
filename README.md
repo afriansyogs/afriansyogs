@@ -3,7 +3,7 @@
 ### 👨‍💻 About Me
 I am a passionate Software Developer with a strong interest in building scalable web applications. I enjoy solving complex problems and constantly learning new technologies to improve my skills.
 
-- 🌱 I’m currently learning Typescript and Javascript Framework especially SvelteKit, Vue.js, Express.js
+- 🌱 I’m currently learning Typescript and Javascript Framework especially SvelteKit, Express.js.
 - 📫 How to reach me: afriansyoga@gmail.com
 
 ---
